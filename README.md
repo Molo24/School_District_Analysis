@@ -9,7 +9,7 @@ The analysis was undertaken using Python, Jupyter Notebook and Pandas
 
 ## Analysis
 ### Investigation and Cleaning the Data
-The project consisted to two data sets (student data & school data).
+The project consisted to two datasets (student data & school data).
 #### Each of these had to be read in as a Panda DataFrame:
 ```
 school_data_to_load = "Resources/schools_complete.csv"
